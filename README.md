@@ -74,7 +74,8 @@ This project investigates how **discounting, product mix, and regional performan
 
 ![Discount vs Profit](discount_profit.png)
 ![Category Profitability](category_profit.png)
-![Geographic Profit](map.png)
+![Geographic Profit](geo_profit_map.png)
+![Demand Forecast](forecast.png)
 
 ---
 
